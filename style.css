@@ -99,8 +99,12 @@ html,body{
     opacity: 1;
 }
 
+.elem:hover a{
+    text-decoration: underline;
+}
+
 .elem:hover{
-    background-color: rgb(228, 223, 223);
+    background-color: rgb(240, 236, 236);
 }
 
 #bottom{
